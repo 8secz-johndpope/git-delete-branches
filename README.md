@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Ever git sick of deleting local and and remote branches one at a time?
+Ever git sick of deleting multiple local and and remote git branches one at a time?
 
-Delete multiple local and remote branches that begin with the same string.
+Delete multiple local and remote git branches that begin with the same string.
 
 ## Code Samples
 
