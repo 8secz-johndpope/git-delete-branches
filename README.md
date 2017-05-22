@@ -1,4 +1,4 @@
-# git-delete
+# git-delete-branches
 
 ## Introduction
 
@@ -6,7 +6,7 @@ Ever git sick of deleting multiple local and and remote git branches one at a ti
 
 Delete multiple local and remote git branches that begin with the same string.
 
-## Code Samples
+## Usage
 
 Replace these
 
