@@ -26,13 +26,13 @@ Replace these
 
 With this
 
-    git-delete foo/
+    git-delete-branches foo/
 
 
 ## Installation
 
-Download git-delete and put it somewhere on your $PATH.
+Download git-delete-branches and put it somewhere on your $PATH.
 
 Make it executable
 
-    chmod +x git-delete
+    chmod +x git-delete-branches
